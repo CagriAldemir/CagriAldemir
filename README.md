@@ -13,7 +13,7 @@ I develop code that will solve people's problems.
 </a>
 
 <a href="https://instagram.com/cagrialdemir" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F alt=instagram />
 </a>
 
 <a href="https://linkedin.com/in/cagrialdemir" target="_blank">

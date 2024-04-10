@@ -5,7 +5,7 @@
 I develop code that will solve people's problems.
 
 - 🌍 I'm based in İstanbul / Turkey
-- ✉️ You can contact me at [cagri@cagrialdemir.com.tr](mailto:cagri@cagrialdemir.com.tr)
+- ✉️ You can contact me at [cagri@aldemir.dev](mailto:cagri@aldemir.dev)
 - 🚀 I'm currently working on [Trendyol Group](https://www.linkedin.com/company/trendyolgroup)
 
 <a href="https://github.com/cagrialdemir" target="_blank">

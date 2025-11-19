@@ -6,7 +6,7 @@ I develop code that will solve people's problems.
 
 - 🌍 I'm based in İstanbul / Turkey
 - ✉️ You can contact me at [cagri@aldemir.dev](mailto:cagri@aldemir.dev)
-- 🚀 I'm currently working on [Trendyol Group](https://www.linkedin.com/company/trendyolgroup)
+- 🚀 I'm currently working on [Trendyol GO by Uber Eats](https://www.linkedin.com/company/trendyolgobyubereats)
 
 <a href="https://github.com/cagrialdemir" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
